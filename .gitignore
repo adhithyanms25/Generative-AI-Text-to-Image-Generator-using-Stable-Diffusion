@@ -1,0 +1,53 @@
+# Virtual Environments
+
+venv/
+myenv/
+env/
+
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+
+.env
+
+# IDE Settings
+
+.vscode/
+.idea/
+
+# Jupyter Notebook Files
+
+.ipynb_checkpoints/
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+
+# Log Files
+
+*.log
+
+# Generated Images (Optional)
+
+generated_images/*.png
+generated_images/*.jpg
+generated_images/*.jpeg
+
+# Hugging Face Cache
+
+.cache/
+huggingface/
+
+# PyTorch Cache
+
+torch_cache/
+
+# Streamlit Cache
+
+.streamlit/secrets.toml
